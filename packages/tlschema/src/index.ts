@@ -230,11 +230,13 @@ export {
 	defaultColorNames,
 	DefaultColorStyle,
 	DefaultColorThemePalette,
+	DefaultLabelColorStyle,
 	getColorValue,
 	getDefaultColorTheme,
 	type TLDefaultColorStyle,
 	type TLDefaultColorTheme,
 	type TLDefaultColorThemeColor,
+	type TDDefaultLabelColorStyle,
 } from './styles/TLColorStyle'
 export { DefaultDashStyle, type TLDefaultDashStyle } from './styles/TLDashStyle'
 export { DefaultFillStyle, type TLDefaultFillStyle } from './styles/TLFillStyle'
